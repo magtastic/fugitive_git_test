@@ -1,4 +1,5 @@
 console.log("This is the initial commit from branch b");
+console.log("some fuck");
 
 console.log("blaa");
 console.log("commiting on master");
